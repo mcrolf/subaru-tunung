@@ -81,7 +81,7 @@
         <parameter id="E185" units="%"/>
         <parameter id="E186" units="%"/>
         <parameter id="E187" units="Knock Events"/>
-        <parameter id="P36" units="%"/>
+        <parameter id="P36" dash="selected" units="%"/>
         <parameter id="P38" units="%"/>
         <parameter id="P41" units="%"/>
         <parameter id="P47" units="%"/>
